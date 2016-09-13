@@ -1,0 +1,74 @@
+body{
+  font-family:'Goudy Bookletter 1911';
+  background-color: #F4F8FA;
+  /*margin: 0px;*/
+}
+
+h1{
+  font-family: Raleway;
+  color:#CB413F;
+  padding-top: 15px;
+  margin-bottom: 0;
+
+}
+
+header{
+  margin-top: -20px;
+  padding-top: 0;
+  border-bottom: 1px solid #E0E0E0;
+  text-align: center;
+}
+
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+
+li{
+  display: inline-block;
+  padding:20px;
+}
+
+a{
+  text-decoration: none;
+  color:#333333;
+}
+
+a:hover{
+  color:#CB413F;
+}
+
+p{
+  font-family:'Goudy Bookletter 1911';
+}
+
+img{
+  height: 258px;
+  width:202px;
+  float:left;
+}
+
+img:hover{
+  opacity: 0.8;
+}
+section{
+  width: 100%;
+  background-color: white;
+}
+
+footer{
+  background-color: #F4F8FA;
+  margin-bottom: -5px;
+  padding-bottom: -5px;
+  width: 100%;
+  border-top: 1px solid #E0E0E0;
+}
+
+h5{
+  padding-left: 45px;
+}
+
+.book_image{
+  padding: 20px;
+  float:left;
+}
